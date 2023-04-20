@@ -1,0 +1,1 @@
+setInterval(()=>console.log("hola mundo"),1000)
