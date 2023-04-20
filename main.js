@@ -1,1 +1,1 @@
-setInterval(()=>console.log("hola mundo amigos"),1000)
+setInterval(()=>console.log("hola mundo amig@s"),1000)
