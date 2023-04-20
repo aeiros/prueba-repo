@@ -33,6 +33,7 @@ jobs:
 
   build:
 
+    needs: prebuild
     runs-on: ubuntu-latest
     permissions:
       contents: read
